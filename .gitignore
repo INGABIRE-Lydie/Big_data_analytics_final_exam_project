@@ -1,0 +1,23 @@
+# Virtual environments
+sparkvenv/
+venv/
+
+# Spark / Hadoop outputs
+spark-warehouse/
+cleaned_parquet/
+Big_Data_analytics_outputs/
+
+# Large generated datasets
+sessions.json
+transactions.json
+users.json
+products.json
+categories.json
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
